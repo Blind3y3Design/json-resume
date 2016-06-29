@@ -1,4 +1,4 @@
-# JSON Resume
+# [JSON Resume](https://blind3y3design.github.io/json-resume/)
 
 This project was inspired by the [JSON Resume](https://jsonresume.org/) project. The idea is that you create a standard JSON-based dataset, and then you can easily reuse that data across a multitide of templates without having to re-write your resume each time you wanted to update the look and feel. Any time you need to update any relevant data you can simply update the JSON and that data is accessible anywhere.
 
