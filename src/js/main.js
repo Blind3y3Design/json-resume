@@ -26,7 +26,7 @@ function ajax_get(url, callback) {
     xmlhttp.send();
 }
  
-ajax_get('../resume-data.json', function(data) {
+ajax_get('resume-data.json', function(data) {
 	console.log(data);
  
     var source   = document.getElementById('resume-template').innerHTML;
