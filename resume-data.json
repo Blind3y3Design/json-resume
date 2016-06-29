@@ -111,7 +111,7 @@
   "projects": [
     {
       "name": "JSON Resume",
-      "url": "",
+      "url": "http://blind3y3design.github.io/json-resume",
       "summary": "Using JSON data to populate a Handlebars template resume" 
     },
     {
